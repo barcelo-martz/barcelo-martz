@@ -1,72 +1,47 @@
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="260" alt="Coding gif"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=ANGELO&fontSize=90&fontColor=B32518&fontAlignY=55&desc=FRONTEND%20DEVELOPER%20—%20UI%2FUX%20—%20OPEN%20SOURCE&descAlignY=80&descSize=18&descColor=F4F1EC&animation=fadeIn" width="100%"/>
 
 <br/>
 
-# ANGELO
-### FRONTEND DEVELOPER
-
-```
-UI/UX  ×  TYPESCRIPT  ×  OPEN SOURCE
-```
+<img src="https://readme-typing-svg.demolab.com/?lines=building+interfaces+that+argue+back;code+is+also+editorial+design;pixel-perfect+or+it+doesn't+ship;React+%2B+TypeScript+%2B+obsession;&font=Space%20Mono&size=20&color=B32518&center=true&vCenter=true&width=600&pause=1800&separator=;" alt="typing"/>
 
 </div>
 
 <br/>
 
-```
-────────────────────────────────────────────────────────────
-  01 / MANIFESTO
-────────────────────────────────────────────────────────────
-```
-
-> **Construyo interfaces que no piden permiso para verse bien.**
->
-> Creo productos digitales donde el detalle no es decoración —
-> es la diferencia entre "funciona" y "se siente bien usarlo".
-> Trabajo principalmente con **React, TypeScript y sistemas de
-> diseño**, y me obsesiona todo lo que pasa entre el pixel y
-> el usuario.
-
-<br/>
-
-```
-────────────────────────────────────────────────────────────
-  02 / STACK
-────────────────────────────────────────────────────────────
-```
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,figma,git,github" />
-</div>
-
-<br/>
-
-```
-────────────────────────────────────────────────────────────
-  03 / TRABAJOS SELECCIONADOS
-────────────────────────────────────────────────────────────
-```
-
-<table>
+<table width="100%">
 <tr>
-<td width="50%" valign="top">
+<td width="65%" valign="top">
 
-**№ 01 — PROYECTO A**
-<br/>
-Breve descripción de qué resuelve y qué stack usa.
-<br/><br/>
-[`→ ver repositorio`](https://github.com/YOUR_USERNAME/proyecto-a)
+## ISSUE №01 — EL PERFIL
+
+**Angelo** no diseña pantallas, diseña argumentos visuales.
+Cada componente tiene una razón de existir; si no la tiene,
+no se sube al repo.
+
+Trabajo en la intersección entre **ingeniería frontend** y
+**dirección de arte** — donde el código es la última capa
+de un sistema de diseño, no un parche sobre él.
+
+`React` `TypeScript` `Design Systems` `Motion` `Figma-to-code`
 
 </td>
-<td width="50%" valign="top">
+<td width="35%" valign="top">
 
-**№ 02 — PROYECTO B**
-<br/>
-Breve descripción de qué resuelve y qué stack usa.
-<br/><br/>
-[`→ ver repositorio`](https://github.com/YOUR_USERNAME/proyecto-b)
+```
+┌─────────────────────┐
+│  STATUS             │
+│  ● shipping          │
+│                      │
+│  FOCUS              │
+│  design systems      │
+│  interaction design  │
+│                      │
+│  BASED IN            │
+│  ~/dev                │
+└─────────────────────┘
+```
 
 </td>
 </tr>
@@ -74,41 +49,74 @@ Breve descripción de qué resuelve y qué stack usa.
 
 <br/>
 
-```
-────────────────────────────────────────────────────────────
-  04 / MÉTRICAS
-────────────────────────────────────────────────────────────
-```
+---
+
+## CATÁLOGO — PROYECTOS EN SUBASTA
+
+<table width="100%">
+<tr>
+<th align="left">LOTE</th>
+<th align="left">PIEZA</th>
+<th align="left">MEDIO</th>
+<th align="left">ESTADO</th>
+</tr>
+<tr>
+<td><code>001</code></td>
+<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-a">PROYECTO A</a></b></td>
+<td>React · TypeScript · Tailwind</td>
+<td>🔴 en vivo</td>
+</tr>
+<tr>
+<td><code>002</code></td>
+<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-b">PROYECTO B</a></b></td>
+<td>Next.js · Figma · Framer</td>
+<td>🟡 en desarrollo</td>
+</tr>
+</table>
+
+<sub>*Cada lote incluye código fuente, decisiones de diseño y al menos un commit del que me arrepiento.*</sub>
+
+<br/>
+
+---
+
+## STACK — HERRAMIENTAS DE TRABAJO
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=barcelo-martz&show_icons=true&theme=radical&hide_border=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barcelo-martz&layout=compact&theme=radical&hide_border=true" height="150"/>
+<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,figma,git,github&theme=dark" />
 </div>
 
 <br/>
 
-```
-────────────────────────────────────────────────────────────
-  05 / CONTACTO
-────────────────────────────────────────────────────────────
-```
+---
+
+## MÉTRICAS DE ESTUDIO
 
 <div align="center">
-
-<a href="https://instagram.com/TU_USUARIO" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:TU_CORREO@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://linkedin.com/in/TU_PERFIL" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
+<img src="https://github-readme-stats.vercel.app/api?username=barcelo-martz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B32518&icon_color=B32518&text_color=F4F1EC" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=barcelo-martz&layout=compact&hide_border=true&bg_color=0D1117&title_color=B32518&text_color=F4F1EC" height="165"/>
 </div>
 
 <br/>
 
 <div align="center">
-<sub>Diseñado con intención, no con plantilla.</sub>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=barcelo-martz&hide_border=true&background=0D1117&ring=B32518&fire=B32518&currStreakLabel=F4F1EC" height="150"/>
+</div>
+
+<br/>
+
+---
+
+<div align="center">
+
+## CONTACTO
+
+<a href="https://instagram.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=B32518" /></a>
+<a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=B32518" /></a>
+<a href="https://linkedin.com/in/TU_PERFIL" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=B32518" /></a>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=60&section=footer&text=END%20OF%20LOT&fontSize=16&fontColor=B32518&fontAlignY=60&font=Space%20Mono" width="100%"/>
+
 </div>
