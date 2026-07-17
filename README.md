@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=ANGELO&fontSize=90&fontColor=B32518&fontAlignY=55&desc=FRONTEND%20DEVELOPER%20—%20UI%2FUX%20—%20OPEN%20SOURCE&descAlignY=80&descSize=18&descColor=F4F1EC&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1a1a1a&height=180&section=header&text=ANGELO%20BRACELÓ&fontSize=90&fontColor=B32518&fontAlignY=55&desc=FRONTEND%20DEVELOPER%20—%20UI%2FUX%20—%20OPEN%20SOURCE&descAlignY=80&descSize=18&descColor=F4F1EC&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -14,15 +14,15 @@
 <tr>
 <td width="65%" valign="top">
 
-## ISSUE №01 — EL PERFIL
+## THE PROFILE
 
-**Angelo** no diseña pantallas, diseña argumentos visuales.
-Cada componente tiene una razón de existir; si no la tiene,
-no se sube al repo.
+I don’t design screens; I design visual arguments.
+Every component has a reason for existing; if it doesn’t,
+it doesn’t get pushed to the repo.
 
-Trabajo en la intersección entre **ingeniería frontend** y
-**dirección de arte** — donde el código es la última capa
-de un sistema de diseño, no un parche sobre él.
+I work at the intersection of **frontend engineering** and
+**art direction**—where code is the final layer
+of a design system, not a patch applied to it.
 
 `React` `TypeScript` `Design Systems` `Motion` `Figma-to-code`
 
@@ -32,14 +32,14 @@ de un sistema de diseño, no un parche sobre él.
 ```
 ┌─────────────────────┐
 │  STATUS             │
-│  ● shipping          │
-│                      │
+│  ● shipping         │
+│                     │
 │  FOCUS              │
-│  design systems      │
-│  interaction design  │
-│                      │
-│  BASED IN            │
-│  ~/dev                │
+│  design systems     │
+│  interaction design │
+│                     │
+│  BASED IN           │
+│  ~/dev              │
 └─────────────────────┘
 ```
 
@@ -51,7 +51,7 @@ de un sistema de diseño, no un parche sobre él.
 
 ---
 
-## CATÁLOGO — PROYECTOS EN SUBASTA
+## PROJECTS
 
 <table width="100%">
 <tr>
@@ -62,15 +62,20 @@ de un sistema de diseño, no un parche sobre él.
 </tr>
 <tr>
 <td><code>001</code></td>
-<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-a">PROYECTO A</a></b></td>
+<td><b><a href="[https://github.com/YOUR_USERNAME/proyecto-a](https://github.com/barcelo-martz/Al-Momento)">AL MOMENTO</a></b></td>
 <td>React · TypeScript · Tailwind</td>
-<td>🔴 en vivo</td>
+<td>🟢 Active</td>
 </tr>
 <tr>
 <td><code>002</code></td>
-<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-b">PROYECTO B</a></b></td>
+<td><b><a href="[https://github.com/YOUR_USERNAME/proyecto-b](https://github.com/barcelo-martz/DuelArt.git)">DUELART</a></b></td>
 <td>Next.js · Figma · Framer</td>
-<td>🟡 en desarrollo</td>
+<td>🟡 In Progress</td>
+</tr>
+<td><code>003</code></td>
+<td><b><a href="[https://github.com/YOUR_USERNAME/proyecto-b](https://github.com/barcelo-martz/DuelArt.git)">DUELART</a></b></td>
+<td>Next.js · Figma · Framer</td>
+<td>🔴 LIVE</td>
 </tr>
 </table>
 
@@ -80,10 +85,10 @@ de un sistema de diseño, no un parche sobre él.
 
 ---
 
-## STACK — HERRAMIENTAS DE TRABAJO
+## STACK
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,ts,tailwind,nextjs,figma,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,node,nestjs,figma,git,github&theme=dark" />
 </div>
 
 <br/>
