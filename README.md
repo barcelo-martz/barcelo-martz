@@ -62,7 +62,7 @@ of a design system, not a patch applied to it.
 </tr>
 <tr>
 <td><code>001</code></td>
-<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-a](https://github.com/barcelo-martz/Al-Momento">AL MOMENTO</a></b></td>
+<td><b><a href="[https://github.com/YOUR_USERNAME/proyecto-a](https://github.com/barcelo-martz/Al-Momento](https://github.com/barcelo-martz/Al-Momento)">AL MOMENTO</a></b></td>
 <td>React · TypeScript · Tailwind</td>
 <td>🟢 Active</td>
 </tr>
