@@ -62,18 +62,18 @@ of a design system, not a patch applied to it.
 </tr>
 <tr>
 <td><code>001</code></td>
-<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-a](https://github.com/barcelo-martz/Al-Momento">AL MOMENTO</a></b></td>
+<td><b><a href="https://github.com/barcelo-martz/Al-Momento">AL MOMENTO</a></b></td>
 <td>React · TypeScript · Tailwind</td>
 <td>🟢 Active</td>
 </tr>
 <tr>
 <td><code>002</code></td>
-<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-b](https://github.com/barcelo-martz/DuelArt.git">DUELART</a></b></td>
+<td><b><a href="https://github.com/barcelo-martz/DuelArt">DUELART</a></b></td>
 <td>Next.js · Figma · Framer</td>
 <td>🟡 In Progress</td>
 </tr>
 <td><code>003</code></td>
-<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-b](https://github.com/barcelo-martz/DuelArt.git">Nuevo</a></b></td>
+<td><b><a href="">Nuevo</a></b></td>
 <td>Next.js · Figma · Framer</td>
 <td>🔴 LIVE</td>
 </tr>
