@@ -24,7 +24,7 @@ I work at the intersection of **frontend engineering** and
 **art direction**—where code is the final layer
 of a design system, not a patch applied to it.
 
-`React` `TypeScript` `Design Systems` `Motion` `Figma-to-code`
+`Design Systems` `Figma-to-code`
 
 </td>
 <td width="35%" valign="top">
@@ -32,7 +32,7 @@ of a design system, not a patch applied to it.
 ```
 ┌─────────────────────┐
 │  STATUS             │
-│  ● shipping         │
+│  ● writing code     │
 │                     │
 │  FOCUS              │
 │  design systems     │
@@ -62,18 +62,18 @@ of a design system, not a patch applied to it.
 </tr>
 <tr>
 <td><code>001</code></td>
-<td><b><a href="[https://github.com/YOUR_USERNAME/proyecto-a](https://github.com/barcelo-martz/Al-Momento)">AL MOMENTO</a></b></td>
+<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-a](https://github.com/barcelo-martz/Al-Momento">AL MOMENTO</a></b></td>
 <td>React · TypeScript · Tailwind</td>
 <td>🟢 Active</td>
 </tr>
 <tr>
 <td><code>002</code></td>
-<td><b><a href="[https://github.com/YOUR_USERNAME/proyecto-b](https://github.com/barcelo-martz/DuelArt.git)">DUELART</a></b></td>
+<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-b](https://github.com/barcelo-martz/DuelArt.git">DUELART</a></b></td>
 <td>Next.js · Figma · Framer</td>
 <td>🟡 In Progress</td>
 </tr>
 <td><code>003</code></td>
-<td><b><a href="[https://github.com/YOUR_USERNAME/proyecto-b](https://github.com/barcelo-martz/DuelArt.git)">DUELART</a></b></td>
+<td><b><a href="https://github.com/YOUR_USERNAME/proyecto-b](https://github.com/barcelo-martz/DuelArt.git">Nuevo</a></b></td>
 <td>Next.js · Figma · Framer</td>
 <td>🔴 LIVE</td>
 </tr>
@@ -88,14 +88,14 @@ of a design system, not a patch applied to it.
 ## STACK
 
 <div align="center">
-<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,node,nestjs,figma,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,angular,ts,tailwind,nodejs,nestjs,figma,git,github&theme=dark" />
 </div>
 
 <br/>
 
 ---
 
-## MÉTRICAS DE ESTUDIO
+## STUDY METRICS
 
 <div align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=barcelo-martz&show_icons=true&hide_border=true&bg_color=0D1117&title_color=B32518&icon_color=B32518&text_color=F4F1EC" height="165"/>
@@ -114,11 +114,11 @@ of a design system, not a patch applied to it.
 
 <div align="center">
 
-## CONTACTO
+## CONTACT
 
 <a href="https://instagram.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=B32518" /></a>
 <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=B32518" /></a>
-<a href="https://linkedin.com/in/TU_PERFIL" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=B32518" /></a>
+<a href="https://linkedin.com/in/TU_PERFIL](https://www.linkedin.com/in/angelo-barcel%C3%B3-mart%C3%ADnez-526740403" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=B32518" /></a>
 
 <br/><br/>
 
