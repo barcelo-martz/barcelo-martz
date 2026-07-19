@@ -118,8 +118,7 @@ of a design system, not a patch applied to it.
 
 <a href="https://instagram.com/TU_USUARIO" target="_blank"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=B32518" /></a>
 <a href="mailto:TU_CORREO@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=B32518" /></a>
-<a href="https://linkedin.com/in/TU_PERFIL](https://www.linkedin.com/in/angelo-barcel%C3%B3-mart%C3%ADnez-526740403" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=B32518" /></a>
-
+<a href="https://www.linkedin.com/in/angelo-barcel%C3%B3-mart%C3%ADnez-526740403/" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=B32518" /></a>
 <br/><br/>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1a1a,100:000000&height=60&section=footer&text=END%20OF%20LOT&fontSize=16&fontColor=B32518&fontAlignY=60&font=Space%20Mono" width="100%"/>
